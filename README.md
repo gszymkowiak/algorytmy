@@ -25,7 +25,7 @@ Projekt obejmuje między innymi:
 
 ### Algorytmy rekurencyjne
 - Silnia
-- Ciąg Fibonacciego
+- [Ciąg Fibonacciego](Algorytm_rekurencyjny-ciąg_Fibonacciego.pdf)
 - Wieże Hanoi
 
 ### Struktury danych i algorytmy
