@@ -13,8 +13,8 @@ Projekt obejmuje między innymi:
 
 ### Algorytmy sortowania
 - [Bubble Sort](Sortowanie_bąbelkowe.pdf)
-- Selection Sort
-- Insertion Sort
+- [Selection Sort](Sortowanie_przez_wybór.pdf)
+- [Insertion Sort](Sortowanie_przez_wstawianie.pdf)
 - Merge Sort
 - Quick Sort
 
