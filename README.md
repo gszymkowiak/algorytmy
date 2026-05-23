@@ -17,7 +17,7 @@ Projekt obejmuje między innymi:
 - [Selection Sort](Sortowanie_przez_wybór.pdf)
 - [Insertion Sort](Sortowanie_przez_wstawianie.pdf)
 - Merge Sort
-- Quick Sort
+- [Quick Sort](Sortowanie_szybkie.pdf)
 
 ### Algorytmy wyszukiwania
 - Wyszukiwanie liniowe
