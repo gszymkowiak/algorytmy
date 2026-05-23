@@ -12,6 +12,7 @@ W projekcie znajdują się przykłady algorytmów wraz z opisem działania, anal
 Projekt obejmuje między innymi:
 
 ### Algorytmy sortowania
+- [Sortowania](Algorytm-sortowanie.pdf)
 - [Bubble Sort](Sortowanie_bąbelkowe.pdf)
 - [Selection Sort](Sortowanie_przez_wybór.pdf)
 - [Insertion Sort](Sortowanie_przez_wstawianie.pdf)
