@@ -21,7 +21,7 @@ Projekt obejmuje między innymi:
 
 ### Algorytmy wyszukiwania
 - Wyszukiwanie liniowe
-- Wyszukiwanie binarne
+- [Wyszukiwanie binarne](Alogrytm-Wyszukiwanie_binarne.pdf)
 
 ### Algorytmy rekurencyjne
 - Silnia
