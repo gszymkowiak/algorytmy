@@ -20,7 +20,7 @@ Projekt obejmuje między innymi:
 - [Quick Sort](Sortowanie_szybkie.pdf)
 
 ### Algorytmy wyszukiwania
-- Wyszukiwanie liniowe
+- [Wyszukiwanie liniowe](Alogrytm-wyszukiwanie_liniowe.pdf)
 - [Wyszukiwanie binarne](Alogrytm-wyszukiwanie_binarne.pdf)
 
 ### Algorytmy rekurencyjne
