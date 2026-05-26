@@ -24,7 +24,7 @@ Projekt obejmuje między innymi:
 - [Wyszukiwanie binarne](Alogrytm-wyszukiwanie_binarne.pdf)
 
 ### Algorytmy rekurencyjne
-- Silnia
+- [Silnia](Algorytm-silnia.pdf)
 - [Ciąg Fibonacciego](Algorytm_rekurencyjny-ciąg_Fibonacciego.pdf)
 - Wieże Hanoi
 
