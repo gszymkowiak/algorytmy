@@ -29,7 +29,7 @@ Projekt obejmuje między innymi:
 - Wieże Hanoi
 
 ### Struktury danych
-- Stos
+- [Stos](Struktury_danych–stos.pdf)
 - Kolejka
 - Lista jednokierunkowa
 - Drzewa binarne
