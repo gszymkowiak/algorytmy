@@ -30,7 +30,7 @@ Projekt obejmuje między innymi:
 
 ### Struktury danych
 - [Stos](Struktury_danych–stos.pdf)
-- Kolejka
+- [Kolejka](Struktury_danych–kolejka.pdf)
 - Lista jednokierunkowa
 - Drzewa binarne
 
