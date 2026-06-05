@@ -16,7 +16,7 @@ Projekt obejmuje między innymi:
 - [Bubble Sort](Sortowanie_bąbelkowe.pdf)
 - [Selection Sort](Sortowanie_przez_wybór.pdf)
 - [Insertion Sort](Sortowanie_przez_wstawianie.pdf)
-- Merge Sort
+- [Merge Sort](Sortowanie_przez_scalanie.pdf)
 - [Quick Sort](Sortowanie_szybkie.pdf)
 
 ### Algorytmy wyszukiwania
